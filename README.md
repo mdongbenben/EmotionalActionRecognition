@@ -7,3 +7,4 @@ In this post, I am going to collect all researches related to works on detection
 ## Micellaneous references
 1. Motion Feature Network: Fixed Motion Filter for Action Recognition. [pdf](https://arxiv.org/pdf/1807.10037.pdf)
 2. Evaluation of Color Spatio-Temporal Interest Points For Human Action Recognition. [pdf](https://staff.fnwi.uva.nl/th.gevers/pub/GeversTIP14-1.pdf)
+3. Kinetic dataset [link](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)
