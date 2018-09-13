@@ -6,4 +6,4 @@ In this post, I am going to collect all researches related to works on detection
 1. Survey on Emotional Body Gesture Recognition - arxiv Jan 2018. [pdf](https://arxiv.org/pdf/1801.07481.pdf)
 ## Micellaneous references
 1. Motion Feature Network: Fixed Motion Filter for Action Recognition. [pdf](https://arxiv.org/pdf/1807.10037.pdf)
-2. Evaluation of Color Spatio-Temporal Interest Points For Human Action Recognition. [pdf] (https://staff.fnwi.uva.nl/th.gevers/pub/GeversTIP14-1.pdf)
+2. Evaluation of Color Spatio-Temporal Interest Points For Human Action Recognition. [pdf](https://staff.fnwi.uva.nl/th.gevers/pub/GeversTIP14-1.pdf)
