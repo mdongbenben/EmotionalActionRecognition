@@ -9,6 +9,6 @@ In this post, I am going to collect all researches related to works on detection
 * A2. Evaluation of Color Spatio-Temporal Interest Points For Human Action Recognition. [pdf](https://staff.fnwi.uva.nl/th.gevers/pub/GeversTIP14-1.pdf)
 * A3.  Temporal Segment Networks: Towards Good Practices for Deep Action Recognition [pdf](https://arxiv.org/pdf/1608.00859.pdf)
 * B1. Action recognition datasets 
-...[Kinetic](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)
-...[Something-Something](https://20bn.com/datasets/something-something)
+-[Kinetic](https://deepmind.com/research/open-source/open-source-datasets/kinetics/): 
+[Something-Something](https://20bn.com/datasets/something-something): Basic human interactions with daily objects
 * C1. Lectures. [pdf](http://6.869.csail.mit.edu/fa17/lecture/lecture23activity_recognition.pdf)
