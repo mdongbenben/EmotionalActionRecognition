@@ -13,4 +13,5 @@ In this post, I am going to collect all researches related to works on detection
   - [Kinetic](https://deepmind.com/research/open-source/open-source-datasets/kinetics/): 
   - [Something-Something](https://20bn.com/datasets/something-something): Basic human interactions with daily objects
   - [UCF101](https://arxiv.org/pdf/1212.0402.pdf) [dataset-download](http://crcv.ucf.edu/data/UCF101.php): Dataset of 101 Human Actions Classes From Videos in The Wild
+  - [HMDB-51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/) HMDB: a large human motion database
 * C1. Lectures. [pdf](http://6.869.csail.mit.edu/fa17/lecture/lecture23activity_recognition.pdf)
