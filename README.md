@@ -4,7 +4,7 @@ In this post, I am going to collect all researches related to works on detection
 1. ARBEE:  Towards  Automated  Recognition  of  Bodily Expression of Emotion In the Wild - arxiv Aug 2018. [pdf](https://arxiv.org/pdf/1808.09568.pdf) [dataset]
 ## Publications
 1. Survey on Emotional Body Gesture Recognition - arxiv Jan 2018. [pdf](https://arxiv.org/pdf/1801.07481.pdf)
-## Micellaneous references
+## Action recognition
 * A1. Motion Feature Network: Fixed Motion Filter for Action Recognition - arxiv Aug 2018. [pdf](https://arxiv.org/pdf/1807.10037.pdf)
 * A2. Evaluation of Color Spatio-Temporal Interest Points For Human Action Recognition. [pdf](https://staff.fnwi.uva.nl/th.gevers/pub/GeversTIP14-1.pdf)
 * A3. Temporal Segment Networks: Towards Good Practices for Deep Action Recognition - ECCV2016 [pdf](https://arxiv.org/pdf/1608.00859.pdf)
