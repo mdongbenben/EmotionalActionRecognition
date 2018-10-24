@@ -10,6 +10,7 @@ In this post, I am going to collect all researches related to works on detection
 * A3. Temporal Segment Networks: Towards Good Practices for Deep Action Recognition - ECCV2016 [pdf](https://arxiv.org/pdf/1608.00859.pdf)
 * A4. Two-Stream Convolutional Networks for Action Recognition in Videos - NIPS 2014 [pdf](https://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf)
 * A5. PoTion: Pose MoTion Representation for Action Recognition - CVPR 2018[pdf](https://hal.inria.fr/hal-01764222/document)
+* A6. Online Real-time Multiple Spatiottemporal Action Localization and Prediction - ICCV2017 [pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Singh_Online_Real-Time_Multiple_ICCV_2017_paper.pdf)
 * B1. Action recognition datasets 
   - [Kinetic](https://deepmind.com/research/open-source/open-source-datasets/kinetics/): 
   - [Something-Something](https://20bn.com/datasets/something-something): Basic human interactions with daily objects
